@@ -1,0 +1,99 @@
+body{
+margin:0;
+text-align:center;
+}
+footer {
+background-color:skyblue;
+padding:50px 0 20px}
+
+h1 {
+color:#66BFBF;
+font-size:5.625rem;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+}
+h3 {
+padding:2% 33% 0;
+width:35%;
+}
+
+li {
+color:green;
+}
+ui {
+text-align:left;
+}
+.contact-message {
+margin:7% 5%}
+.skills {
+padding:3% 6% 5%;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+span {
+text-decoration:underline}
+
+hr {
+border:dotted red 6px;
+border-bottom:none;
+width:4%;
+margin:60px auto;
+}
+.top_container {
+padding-top:100px;
+background-color:#E4F9F5;
+background-image:url("https://images.unsplash.com/photo-1495312040802-a929cd14a6ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80");
+background-size:cover;
+}
+.contact {
+padding:8% 25%;
+}
+.img {
+width: 15%;
+border-radius:50%;
+}
+
+.experiences{
+background-color:#E4F9F5}
+.container {
+padding: 3% 0 2% 5%;
+}
+
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
